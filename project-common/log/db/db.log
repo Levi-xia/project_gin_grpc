@@ -1,0 +1,117 @@
+
+2023/12/24 22:52:53 [32m/Users/levi/go/src/project-gin-grpc/project-user/pkg/dao/users.go:24
+[0m[33m[14.430ms] [34;1m[rows:1][0m SELECT * FROM `users` WHERE `users`.`id` = 1 AND `users`.`deleted_at` IS NULL
+
+2023/12/24 22:52:58 [32m/Users/levi/go/src/project-gin-grpc/project-user/pkg/dao/users.go:24
+[0m[33m[0.631ms] [34;1m[rows:0][0m SELECT * FROM `users` WHERE `users`.`id` = 2 AND `users`.`deleted_at` IS NULL
+
+2023/12/24 22:57:29 [32m/Users/levi/go/src/project-gin-grpc/project-user/pkg/dao/users.go:24
+[0m[33m[1.588ms] [34;1m[rows:0][0m SELECT * FROM `users` WHERE `users`.`id` = 2 AND `users`.`deleted_at` IS NULL
+
+2023/12/24 22:57:29 [32m/Users/levi/go/src/project-gin-grpc/project-user/pkg/dao/users.go:24
+[0m[33m[0.576ms] [34;1m[rows:0][0m SELECT * FROM `users` WHERE `users`.`id` = 2 AND `users`.`deleted_at` IS NULL
+
+2023/12/24 22:57:31 [32m/Users/levi/go/src/project-gin-grpc/project-user/pkg/dao/users.go:24
+[0m[33m[0.935ms] [34;1m[rows:1][0m SELECT * FROM `users` WHERE `users`.`id` = 1 AND `users`.`deleted_at` IS NULL
+
+2023/12/24 23:08:59 [32m/Users/levi/go/src/project-gin-grpc/project-user/pkg/dao/users.go:24
+[0m[33m[1.384ms] [34;1m[rows:1][0m SELECT * FROM `users` WHERE `users`.`id` = 1 AND `users`.`deleted_at` IS NULL
+
+2023/12/24 23:09:52 [32m/Users/levi/go/src/project-gin-grpc/project-user/pkg/dao/users.go:24
+[0m[33m[0.783ms] [34;1m[rows:1][0m SELECT * FROM `users` WHERE `users`.`id` = 1 AND `users`.`deleted_at` IS NULL
+
+2023/12/24 23:14:17 [32m/Users/levi/go/src/project-gin-grpc/project-user/pkg/dao/users.go:24
+[0m[33m[0.614ms] [34;1m[rows:1][0m SELECT * FROM `users` WHERE `users`.`id` = 1 AND `users`.`deleted_at` IS NULL
+
+2023/12/24 23:16:19 [32m/Users/levi/go/src/project-gin-grpc/project-user/pkg/dao/users.go:24
+[0m[33m[0.691ms] [34;1m[rows:1][0m SELECT * FROM `users` WHERE `users`.`id` = 1 AND `users`.`deleted_at` IS NULL
+
+2023/12/24 23:17:59 [32m/Users/levi/go/src/project-gin-grpc/project-user/pkg/dao/users.go:24
+[0m[33m[0.717ms] [34;1m[rows:1][0m SELECT * FROM `users` WHERE `users`.`id` = 1 AND `users`.`deleted_at` IS NULL
+
+2023/12/24 23:18:09 [32m/Users/levi/go/src/project-gin-grpc/project-user/pkg/dao/users.go:24
+[0m[33m[0.751ms] [34;1m[rows:1][0m SELECT * FROM `users` WHERE `users`.`id` = 1 AND `users`.`deleted_at` IS NULL
+
+2023/12/24 23:21:59 [32m/Users/levi/go/src/project-gin-grpc/project-user/pkg/dao/users.go:24
+[0m[33m[1.705ms] [34;1m[rows:1][0m SELECT * FROM `users` WHERE `users`.`id` = 1 AND `users`.`deleted_at` IS NULL
+
+2023/12/24 23:49:26 [32m/Users/levi/go/src/project-gin-grpc/project-user/pkg/dao/users.go:24
+[0m[33m[2.849ms] [34;1m[rows:1][0m SELECT * FROM `users` WHERE `users`.`id` = 1 AND `users`.`deleted_at` IS NULL
+
+2023/12/24 23:50:56 [32m/Users/levi/go/src/project-gin-grpc/project-user/pkg/dao/users.go:24
+[0m[33m[0.879ms] [34;1m[rows:1][0m SELECT * FROM `users` WHERE `users`.`id` = 1 AND `users`.`deleted_at` IS NULL
+
+2023/12/24 23:52:29 [32m/Users/levi/go/src/project-gin-grpc/project-user/pkg/dao/users.go:24
+[0m[33m[0.776ms] [34;1m[rows:1][0m SELECT * FROM `users` WHERE `users`.`id` = 1 AND `users`.`deleted_at` IS NULL
+
+2023/12/24 23:53:49 [32m/Users/levi/go/src/project-gin-grpc/project-user/pkg/dao/users.go:24
+[0m[33m[0.859ms] [34;1m[rows:1][0m SELECT * FROM `users` WHERE `users`.`id` = 1 AND `users`.`deleted_at` IS NULL
+
+2023/12/24 23:54:20 [32m/Users/levi/go/src/project-gin-grpc/project-user/pkg/dao/users.go:24
+[0m[33m[2.697ms] [34;1m[rows:1][0m SELECT * FROM `users` WHERE `users`.`id` = 1 AND `users`.`deleted_at` IS NULL
+
+2023/12/24 23:54:41 [32m/Users/levi/go/src/project-gin-grpc/project-user/pkg/dao/users.go:24
+[0m[33m[0.807ms] [34;1m[rows:1][0m SELECT * FROM `users` WHERE `users`.`id` = 1 AND `users`.`deleted_at` IS NULL
+
+2023/12/24 23:55:27 [32m/Users/levi/go/src/project-gin-grpc/project-user/pkg/dao/users.go:24
+[0m[33m[0.651ms] [34;1m[rows:1][0m SELECT * FROM `users` WHERE `users`.`id` = 1 AND `users`.`deleted_at` IS NULL
+
+2023/12/24 23:56:09 [32m/Users/levi/go/src/project-gin-grpc/project-user/pkg/dao/users.go:24
+[0m[33m[0.879ms] [34;1m[rows:1][0m SELECT * FROM `users` WHERE `users`.`id` = 1 AND `users`.`deleted_at` IS NULL
+
+2023/12/24 23:57:32 [32m/Users/levi/go/src/project-gin-grpc/project-user/pkg/dao/users.go:24
+[0m[33m[1.473ms] [34;1m[rows:1][0m SELECT * FROM `users` WHERE `users`.`id` = 1 AND `users`.`deleted_at` IS NULL
+
+2023/12/25 00:16:30 [32m/Users/levi/go/src/project-gin-grpc/project-user/pkg/service/user.service.v1/user_service.go:27
+[0m[33m[22.748ms] [34;1m[rows:1][0m SELECT * FROM `users` WHERE name = '123' AND `users`.`deleted_at` IS NULL ORDER BY `users`.`id` LIMIT 1
+
+2023/12/25 00:16:39 [32m/Users/levi/go/src/project-gin-grpc/project-user/pkg/dao/users.go:24
+[0m[33m[0.820ms] [34;1m[rows:1][0m SELECT * FROM `users` WHERE `users`.`id` = 1 AND `users`.`deleted_at` IS NULL
+
+2023/12/25 00:16:41 [32m/Users/levi/go/src/project-gin-grpc/project-user/pkg/dao/users.go:24
+[0m[33m[0.681ms] [34;1m[rows:1][0m SELECT * FROM `users` WHERE `users`.`id` = 1 AND `users`.`deleted_at` IS NULL
+
+2023/12/25 00:17:04 [32m/Users/levi/go/src/project-gin-grpc/project-user/pkg/dao/users.go:24
+[0m[33m[1.107ms] [34;1m[rows:1][0m SELECT * FROM `users` WHERE `users`.`id` = 1 AND `users`.`deleted_at` IS NULL
+
+2023/12/25 00:17:24 [32m/Users/levi/go/src/project-gin-grpc/project-user/pkg/dao/users.go:24
+[0m[33m[0.748ms] [34;1m[rows:0][0m SELECT * FROM `users` WHERE `users`.`id` = 2 AND `users`.`deleted_at` IS NULL
+
+2023/12/25 00:20:37 [32m/Users/levi/go/src/project-gin-grpc/project-user/pkg/dao/users.go:24
+[0m[33m[1.223ms] [34;1m[rows:0][0m SELECT * FROM `users` WHERE `users`.`id` = 2 AND `users`.`deleted_at` IS NULL
+
+2023/12/25 00:20:38 [32m/Users/levi/go/src/project-gin-grpc/project-user/pkg/dao/users.go:24
+[0m[33m[0.775ms] [34;1m[rows:0][0m SELECT * FROM `users` WHERE `users`.`id` = 2 AND `users`.`deleted_at` IS NULL
+
+2023/12/25 00:21:16 [32m/Users/levi/go/src/project-gin-grpc/project-user/pkg/dao/users.go:24
+[0m[33m[1.140ms] [34;1m[rows:0][0m SELECT * FROM `users` WHERE `users`.`id` = 2 AND `users`.`deleted_at` IS NULL
+
+2023/12/25 00:21:40 [32m/Users/levi/go/src/project-gin-grpc/project-user/pkg/service/user.service.v1/user_service.go:28
+[0m[33m[1.106ms] [34;1m[rows:1][0m SELECT * FROM `users` WHERE name = '123' AND `users`.`deleted_at` IS NULL ORDER BY `users`.`id` LIMIT 1
+
+2023/12/25 00:21:41 [32m/Users/levi/go/src/project-gin-grpc/project-user/pkg/service/user.service.v1/user_service.go:28
+[0m[33m[0.910ms] [34;1m[rows:1][0m SELECT * FROM `users` WHERE name = '123' AND `users`.`deleted_at` IS NULL ORDER BY `users`.`id` LIMIT 1
+
+2023/12/25 00:22:33 [32m/Users/levi/go/src/project-gin-grpc/project-user/pkg/service/user.service.v1/user_service.go:28
+[0m[33m[1.201ms] [34;1m[rows:1][0m SELECT * FROM `users` WHERE name = '123' AND `users`.`deleted_at` IS NULL ORDER BY `users`.`id` LIMIT 1
+
+2023/12/25 00:23:08 [31;1m/Users/levi/go/src/project-gin-grpc/project-user/pkg/service/user.service.v1/user_service.go:28 [35;1mrecord not found
+[0m[33m[1.768ms] [34;1m[rows:0][0m SELECT * FROM `users` WHERE name = '456' AND `users`.`deleted_at` IS NULL ORDER BY `users`.`id` LIMIT 1
+
+2023/12/25 00:23:57 [31;1m/Users/levi/go/src/project-gin-grpc/project-user/pkg/service/user.service.v1/user_service.go:26 [35;1mrecord not found
+[0m[33m[1.217ms] [34;1m[rows:0][0m SELECT * FROM `users` WHERE name = '456' AND `users`.`deleted_at` IS NULL ORDER BY `users`.`id` LIMIT 1
+
+2023/12/25 00:28:01 [31;1m/Users/levi/go/src/project-gin-grpc/project-user/pkg/service/user.service.v1/user_service.go:26 [35;1mrecord not found
+[0m[33m[1.536ms] [34;1m[rows:0][0m SELECT * FROM `users` WHERE name = '456' AND `users`.`deleted_at` IS NULL ORDER BY `users`.`id` LIMIT 1
+
+2023/12/25 00:28:06 [32m/Users/levi/go/src/project-gin-grpc/project-user/pkg/service/user.service.v1/user_service.go:26
+[0m[33m[1.105ms] [34;1m[rows:1][0m SELECT * FROM `users` WHERE name = '123' AND `users`.`deleted_at` IS NULL ORDER BY `users`.`id` LIMIT 1
+
+2023/12/25 00:28:13 [32m/Users/levi/go/src/project-gin-grpc/project-user/pkg/service/user.service.v1/user_service.go:26
+[0m[33m[1.038ms] [34;1m[rows:1][0m SELECT * FROM `users` WHERE name = '123' AND `users`.`deleted_at` IS NULL ORDER BY `users`.`id` LIMIT 1
+
+2023/12/25 00:28:15 [32m/Users/levi/go/src/project-gin-grpc/project-user/pkg/service/user.service.v1/user_service.go:26
+[0m[33m[0.939ms] [34;1m[rows:1][0m SELECT * FROM `users` WHERE name = '123' AND `users`.`deleted_at` IS NULL ORDER BY `users`.`id` LIMIT 1
+
+2023/12/25 00:28:19 [32m/Users/levi/go/src/project-gin-grpc/project-user/pkg/service/user.service.v1/user_service.go:26
+[0m[33m[0.798ms] [34;1m[rows:1][0m SELECT * FROM `users` WHERE name = '123' AND `users`.`deleted_at` IS NULL ORDER BY `users`.`id` LIMIT 1
